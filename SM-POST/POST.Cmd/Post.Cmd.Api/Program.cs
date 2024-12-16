@@ -1,3 +1,4 @@
+using Confluent.Kafka;
 using CQRS.Core.Domain;
 using CQRS.Core.Handlers;
 using CQRS.Core.infrastructure;
@@ -13,6 +14,7 @@ var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.Configure<MongoDbConfig>(builder.Configuration.GetSection(nameof(MongoDbConfig)));
+builder.Services.Configure<ProducerConfig>(builder.Configuration.GetSection(nameof(ProducerConfig)));
 builder.Services.AddScoped<IEventStoreRepository,EventStoreRepository>();
 builder.Services.AddScoped<IEventStore,EventStores>();
 builder.Services.AddScoped<IEventSourcingHandler<PostAggregate>,EventSourcingHandler>();
