@@ -81,3 +81,5 @@ dotnet add Post.Query/Post.Query.Infrastructure/Post.Query.Infrastructure.csproj
 dotnet sln add Post.Common/Post.Common.csproj
 
 dotnet add Post.Cmd/Post.Cmd.Infrastructure/Post.Cmd.Infrastructure.csproj reference Post.Cmd/Post.Cmd.Domain/Post.Cmd.Domain.csproj
+
+dotnet add Post.Query/Post.Query.Infrastructure/Post.Query.Infrastructure.csproj reference Post.Query/Post.Query.Domain/Post.Query.Domain.csproj
