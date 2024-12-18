@@ -1,6 +1,6 @@
 using Post.Common.Events;
 
-namespace Post.Query.Infrastructure.Handler
+namespace Post.Query.Infrastructure.Handlers
 {
     public interface IEventHandler
     {
