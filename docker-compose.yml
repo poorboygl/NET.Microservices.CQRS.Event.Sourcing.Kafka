@@ -47,7 +47,7 @@ services:
     restart: always
     environment:
       ACCEPT_EULA: "Y"
-      SA_PASSWORD: "$tr0ngS@P@ssw0rd02"
+      MSSQL_SA_PASSWORD: "Pa55w0rd2019"
       MSSQL_PID: "Express"
 
 
