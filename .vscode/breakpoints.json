@@ -1,0 +1,282 @@
+[
+  {
+    "location": "/CQRS-ES/CQRS.Core/Domain/AggregateRoot.cs",
+    "line": [
+      {
+        "line": 27,
+        "character": 0
+      },
+      {
+        "line": 27,
+        "character": 0
+      }
+    ],
+    "enabled": true
+  },
+  {
+    "location": "/CQRS-ES/CQRS.Core/Domain/AggregateRoot.cs",
+    "line": [
+      {
+        "line": 44,
+        "character": 0
+      },
+      {
+        "line": 44,
+        "character": 0
+      }
+    ],
+    "enabled": true
+  },
+  {
+    "location": "/SM-POST/POST.Cmd/Post.Cmd.Infrastructure/Dispatchers/CommandDispatcher.cs",
+    "line": [
+      {
+        "line": 20,
+        "character": 0
+      },
+      {
+        "line": 20,
+        "character": 0
+      }
+    ],
+    "enabled": true
+  },
+  {
+    "location": "/SM-POST/POST.Cmd/Post.Cmd.Api/Commands/CommandHandler.cs",
+    "line": [
+      {
+        "line": 17,
+        "character": 0
+      },
+      {
+        "line": 17,
+        "character": 0
+      }
+    ],
+    "enabled": true
+  },
+  {
+    "location": "/SM-POST/POST.Cmd/Post.Cmd.Api/Commands/CommandHandler.cs",
+    "line": [
+      {
+        "line": 18,
+        "character": 0
+      },
+      {
+        "line": 18,
+        "character": 0
+      }
+    ],
+    "enabled": true
+  },
+  {
+    "location": "/SM-POST/POST.Cmd/Post.Cmd.Infrastructure/Handlers/EventSourcingHandler.cs",
+    "line": [
+      {
+        "line": 34,
+        "character": 0
+      },
+      {
+        "line": 34,
+        "character": 0
+      }
+    ],
+    "enabled": true
+  },
+  {
+    "location": "/SM-POST/POST.Cmd/Post.Cmd.Api/Controllers/NewPostController.cs",
+    "line": [
+      {
+        "line": 23,
+        "character": 0
+      },
+      {
+        "line": 23,
+        "character": 0
+      }
+    ],
+    "enabled": true
+  },
+  {
+    "location": "/SM-POST/Post.Cmd/Post.Cmd.Domain/Aggregates/PostAggregate.cs",
+    "line": [
+      {
+        "line": 24,
+        "character": 0
+      },
+      {
+        "line": 24,
+        "character": 0
+      }
+    ],
+    "enabled": true
+  },
+  {
+    "location": "/SM-POST/Post.Cmd/Post.Cmd.Infrastructure/Stores/EventStores.cs",
+    "line": [
+      {
+        "line": 32,
+        "character": 0
+      },
+      {
+        "line": 32,
+        "character": 0
+      }
+    ],
+    "enabled": true
+  },
+  {
+    "location": "/CQRS-ES/CQRS.Core/Domain/AggregateRoot.cs",
+    "line": [
+      {
+        "line": 22,
+        "character": 0
+      },
+      {
+        "line": 22,
+        "character": 0
+      }
+    ],
+    "enabled": true
+  },
+  {
+    "location": "/CQRS-ES/CQRS.Core/Domain/AggregateRoot.cs",
+    "line": [
+      {
+        "line": 17,
+        "character": 0
+      },
+      {
+        "line": 17,
+        "character": 0
+      }
+    ],
+    "enabled": true
+  },
+  {
+    "location": "/SM-POST/Post.Cmd/Post.Cmd.Infrastructure/Repositories/EventStoreRepository.cs",
+    "line": [
+      {
+        "line": 21,
+        "character": 0
+      },
+      {
+        "line": 21,
+        "character": 0
+      }
+    ],
+    "enabled": true
+  },
+  {
+    "location": "/SM-POST/Post.Cmd/Post.Cmd.Infrastructure/Stores/EventStores.cs",
+    "line": [
+      {
+        "line": 55,
+        "character": 0
+      },
+      {
+        "line": 55,
+        "character": 0
+      }
+    ],
+    "enabled": true
+  },
+  {
+    "location": "/SM-POST/Post.Cmd/Post.Cmd.Infrastructure/Repositories/EventStoreRepository.cs",
+    "line": [
+      {
+        "line": 26,
+        "character": 0
+      },
+      {
+        "line": 26,
+        "character": 0
+      }
+    ],
+    "enabled": true
+  },
+  {
+    "location": "/SM-POST/Post.Cmd/Post.Cmd.Infrastructure/Stores/EventStores.cs",
+    "line": [
+      {
+        "line": 58,
+        "character": 0
+      },
+      {
+        "line": 58,
+        "character": 0
+      }
+    ],
+    "enabled": true
+  },
+  {
+    "location": "/SM-POST/Post.Cmd/Post.Cmd.Infrastructure/Producers/EventProducer.cs",
+    "line": [
+      {
+        "line": 21,
+        "character": 0
+      },
+      {
+        "line": 21,
+        "character": 0
+      }
+    ],
+    "enabled": true
+  },
+  {
+    "location": "/SM-POST/POST.Query/Post.Query.Infrastructure/Consumers/EventConsumer.cs",
+    "line": [
+      {
+        "line": 22,
+        "character": 0
+      },
+      {
+        "line": 22,
+        "character": 0
+      }
+    ],
+    "enabled": true
+  },
+  {
+    "location": "/SM-POST/POST.Query/Post.Query.Infrastructure/Consumers/ConsumerHostedService.cs",
+    "line": [
+      {
+        "line": 19,
+        "character": 0
+      },
+      {
+        "line": 19,
+        "character": 0
+      }
+    ],
+    "enabled": true
+  },
+  {
+    "location": "/SM-POST/POST.Query/Post.Query.Infrastructure/Handlers/EventHandler.cs",
+    "line": [
+      {
+        "line": 61,
+        "character": 0
+      },
+      {
+        "line": 61,
+        "character": 0
+      }
+    ],
+    "enabled": true
+  },
+  {
+    "location": "/SM-POST/POST.Query/Post.Query.Infrastructure/Repositories/PostRepository.cs",
+    "line": [
+      {
+        "line": 16,
+        "character": 0
+      },
+      {
+        "line": 16,
+        "character": 0
+      }
+    ],
+    "enabled": true
+  }
+]

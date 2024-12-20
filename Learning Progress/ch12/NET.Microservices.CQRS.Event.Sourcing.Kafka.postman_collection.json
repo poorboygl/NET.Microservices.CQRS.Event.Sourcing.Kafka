@@ -1,0 +1,33 @@
+{
+	"info": {
+		"_postman_id": "2709ae1e-41e3-4c04-8a6c-5487eb3620e0",
+		"name": "NET.Microservices.CQRS.Event.Sourcing.Kafka",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json",
+		"_exporter_id": "22909124"
+	},
+	"item": [
+		{
+			"name": "ch12",
+			"item": [
+				{
+					"name": "newPost",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"author\":\"John Doe\",\r\n    \"message\":\"#CQRS and #EventSourcing are amazing #microservices design patterns!\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": "http://localhost:5010/api/v1/newPost"
+					},
+					"response": []
+				}
+			]
+		}
+	]
+}
